@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Source Code Pro, monospace",
+    "git.autofetch": true,
+    "workbench.colorTheme": "Chromodynamics", 
+    "editor.rulers": [79, 99],     
+}
