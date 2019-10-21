@@ -8,7 +8,7 @@ apistar==0.5.30
 appdirs==1.4.3            # via black
 astroid==1.6.4            # via pylint
 attrs==18.1.0             # via black
-black==18.6b1
+black==19.3b0
 certifi==2018.4.16        # via requests
 chardet==3.0.4            # via requests
 click==6.7                # via apistar, black, pip-tools
@@ -24,7 +24,8 @@ pylint==1.9.1
 pyyaml==3.12              # via apistar
 requests==2.18.4          # via apistar
 six==1.11.0               # via astroid, pip-tools, pylint
+toml==0.10.0              # via black
 urllib3==1.22             # via requests
-werkzeug==0.14.1          # via apistar
+werkzeug==0.15.3          # via apistar
 whitenoise==3.3.1         # via apistar
 wrapt==1.10.11            # via astroid
